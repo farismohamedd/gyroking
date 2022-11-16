@@ -10,3 +10,11 @@ font-style: italic;
 .body1{
   background-color: grey;
 }
+.background {
+  background-image: url('img/eat-local.png');
+}
+.container p-4 pb-0{
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
