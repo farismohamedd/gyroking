@@ -3,7 +3,7 @@
     width: 50%;
     padding: 10px;
   }
-.firstHeading {
+.font {
 font-family: fantasy;
 font-style: italic;
 }
@@ -12,9 +12,13 @@ font-style: italic;
 }
 .background {
   background-image: url('img/eat-local.png');
+
 }
 .container p-4 pb-0{
   margin: auto;
   width: 50%;
   padding: 10px;
+}
+.info {
+  color: navy;
 }
