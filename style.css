@@ -19,6 +19,16 @@ font-style: italic;
   width: 50%;
   padding: 10px;
 }
-.info {
-  color: navy;
+
+
+.gallery-img{
+  max-width: 400px; 
+}
+.space {
+padding-top:2;
+padding-bottom:40px;
+}
+.body2{
+  background-color: rgb(71, 107, 204);
+  color: rgb(255, 255, 255);
 }
