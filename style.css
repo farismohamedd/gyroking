@@ -7,11 +7,18 @@
 font-family: fantasy;
 font-style: italic;
 }
+.font2 {
+  font-family: fantasy;
+  font-style: italic;
+  font-size: 30px;
+  }
 .body1{
   background-color: grey;
 }
 .background {
   background-image: url('img/eat-local.png');
+  width: auto;
+  height: 500px;
 
 }
 .container p-4 pb-0{
@@ -31,4 +38,31 @@ padding-bottom:40px;
 .body2{
   background-color: rgb(71, 107, 204);
   color: rgb(255, 255, 255);
+}
+.carousel .item {
+  height: 500px;
+}
+img {
+  max-width: 45%;
+  width: auto   9;
+  height: auto;
+  margin: auto;
+  vertical-align: middle;
+  border: 0;
+  -ms-interpolation-mode: bicubic;
+  
+}
+@media only screen and (max-width: 900px) {
+  body {
+    background-color: blue;
+  }
+}
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: lightblue;
+  }
+  .carousel
+  {height: 200px;
+  width: auto;}
+  
 }
