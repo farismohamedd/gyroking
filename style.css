@@ -6,6 +6,7 @@
 .font {
 font-family: fantasy;
 font-style: italic;
+
 }
 .font2 {
   font-family: fantasy;
@@ -13,7 +14,7 @@ font-style: italic;
   font-size: 30px;
   }
 .body1{
-  background-color: grey;
+  background-color: rgb(71, 107, 204);
 }
 .background {
   background-image: url('img/eat-local.png');
@@ -65,4 +66,7 @@ img {
   {height: 200px;
   width: auto;}
   
+}
+p{
+  color: black;
 }
