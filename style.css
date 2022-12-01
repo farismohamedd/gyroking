@@ -12,6 +12,12 @@ font-style: italic;
   font-family: fantasy;
   font-style: italic;
   font-size: 30px;
+  color: white;
+  text-shadow:
+ -2px 0 #000,
+ -2px 0 #000,
+ 2px 0 #000,
+ 2px 0 #000;
   }
 .body1{
   background-color: rgb(71, 107, 204);
@@ -22,13 +28,6 @@ font-style: italic;
   height: 500px;
 
 }
-.container p-4 pb-0{
-  margin: auto;
-  width: 50%;
-  padding: 10px;
-}
-
-
 .gallery-img{
   max-width: 400px; 
 }
@@ -69,4 +68,41 @@ img {
 }
 p{
   color: black;
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  text-align: center;
+}
+a{
+  color: white
+}
+#welcome{
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  text-align: center;
+  
+}
+#menu-text{
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  text-align: center;
+}
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  background-color: #2196F3;
+  padding: 10px;
+}
+.grid-item {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+}
+.grid-item > img {width: 100%;
+
+
 }
