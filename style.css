@@ -20,7 +20,7 @@ font-style: italic;
  2px 0 #000;
   }
 .body1{
-  background-color: rgb(71, 107, 204);
+  background-color: rgb(66, 67, 71);
 }
 .background {
   background-image: url('img/black.png');
@@ -36,7 +36,7 @@ padding-top:2;
 padding-bottom:40px;
 }
 .body2{
-  background-color: rgb(71, 107, 204);
+  background-color: rgb(66, 67, 71);
   color: rgb(255, 255, 255);
 }
 .carousel .item {
@@ -66,7 +66,7 @@ img {
   width: auto;}
   
 }
-p{
+.p2{
   color: black;
   margin: auto;
   width: 50%;
@@ -105,6 +105,9 @@ a{
 .grid-item > img {width: 100%
 
 
+}
+p{
+  color: white;
 }
 /*paraley
 */
