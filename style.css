@@ -52,20 +52,7 @@ img {
   -ms-interpolation-mode: bicubic;
   
 }
-@media only screen and (max-width: 900px) {
-  body {
-    background-color: blue;
-  }
-}
-@media only screen and (max-width: 600px) {
-  body {
-    background-color: lightblue;
-  }
-  .carousel
-  {height: 200px;
-  width: auto;}
-  
-}
+
 .p2{
   color: black;
   margin: auto;
@@ -111,3 +98,21 @@ p{
 }
 /*paraley
 */
+.carousel-caption{
+  background-color: #000;
+  opacity: 85%;
+}
+@media only screen and (max-width: 900px) {
+  body {
+    background-color: blue;
+  }
+}
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: lightblue;
+  }
+  .carousel
+  {height: 200px;
+  width: auto;}
+  
+}
