@@ -28,6 +28,15 @@ font-style: italic;
   height: 500px;
 
 }
+/* menu!!!!!!! */
+#facebook{
+  background-image: url(img/facebook.png);
+  height:530px;
+  width:1000px;
+  background-repeat:no-repeat;
+  
+}
+/*  */
 .gallery-img{
   max-width: 400px; 
 }
@@ -90,9 +99,8 @@ a{
   text-align: center;
 }
 .grid-item > img {width: 100%
-
-
 }
+
 p{
   color: white;
 }
