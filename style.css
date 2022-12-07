@@ -30,12 +30,30 @@ font-style: italic;
 }
 /* menu!!!!!!! */
 #facebook{
-  background-image: url(img/blur.jpg);
-  height:530px;
-  width:;
-  background-repeat:no-repeat;
-  
+  background-image: url(img/blur.jpg);background-repeat:no-repeat;background-size:100%;
+  height:400px;
+  width: 2000px;
 }
+.jumbotron .container {
+  position: relative;
+  top:100px;
+}
+/*  */
+
+/* info!!!!!!! */
+.map-container{
+  overflow:hidden;
+  padding-bottom:56.25%;
+  position:relative;
+  height:0;
+  }
+  .map-container iframe{
+  left:0;
+  top:0;
+  height:50%;
+  width:50%;
+  position:absolute;
+  }
 /*  */
 .gallery-img{
   max-width: 400px; 
