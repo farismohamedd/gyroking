@@ -168,12 +168,12 @@ p{
   bottom: 0;
   width: 100%;
 }
-@media only screen and () {
+@media only screen and{
   body {
     background-color: blue;
   }
 }
-@media only screen and () {
+@media only screen and {
   body {
     background-color: lightblue;
   }
