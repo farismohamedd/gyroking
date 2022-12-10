@@ -1,2 +1,3 @@
 # gyroking
  
+Hello! This is the Red Pandas, Faris Mohamed, Jocelin Morales, and Chad Joyner. I am Faris Mohamed and have done the index.html, gallery.html, navbar, and footer. A problem I overcame was getting the carousel on the home page to look good at first it looked really stretched making it look really ugly, I have decided to stick with a square. The Red Pandas have enjoyed the coding experience due to have many problems we overcame. I am Jocelin Morales and have done the menu.html, info.html, ordernow.html. A problem I overcame was jumbotron going onto different but pages. I understand why it does that it is because the css overwrites the jumbotron code. I am Chad Joyner and have done 
